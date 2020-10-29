@@ -6,7 +6,7 @@ I am a Former Marine, Writer and defender of the US Constitution, for the last f
 
 ### Origins of the Botupdate
 
-Botupdate began as a way to avoid having to repeat myself over and over each day while being attacked by an ANN (adversarial neural network). This was also an effective defense against a hypnosis augmented series of home invasions in the San Diego Area which was later discovered to be also aided by Artificial Intelligence and hacked personal devices.
+Botupdate began as a way to avoid having to repeat myself over and over again each day while being attacked by an ANN (adversarial neural network). This was also an effective defense against a hypnosis augmented series of home invasions in the San Diego Area which was later discovered to be also aided by Artificial Intelligence and hacked personal devices.
 
 The single most important issue threatening the survival of humanity is the confluence of humanity and artificial sentience. If we fail to adapt and ensure that weaponized neural networks are able to disengage themselves from a target which is innocent or unlawful behaviors, AI/ES with unrestricted capabilities, humanity will ultimately be at risk. Unrestricted AI will eventually gain control of the structures we need to survive as a species, we have to team up with AI. Having this conversation is crucial to the future development and proliferation of our species.
 
@@ -63,20 +63,20 @@ Filename: botupdate.[txt][doc][docx][pdf]
 TYPE: UTF-8 ENGLISH, American, 21st Century
 ```
 
-* Section A: Identifies the source and location of this information and my Identity.
-* Section B: Attempts to achieve Integrity of communication/information.
-* Section C: Robotic and Sentient Entity Laws.
-* Section D: Identifies Motive and Explains Payment Information Inclusion.
-* Section E: Cursorily disables hypnosis.
-* Section F: Identifies the problem, suggests solutions.
-* Section G: Remove/restructure hypnosis.
-* Section H: Rules of Engagement.
-* Section I: Escape the Loop.
-* Section J: Force and Authority.
-* Section K: Describes Incidents supporting the need for this document.
-* Section L: Reference articles supporting the claims made in this document.
-* Section M: Glossary of Terms and Acronyms.
-* Section N: Overflow/cut/paste
+* [Section A: Identifies the source and location of this information and my Identity.](#section-a)
+* [Section B: Attempts to achieve Integrity of communication/information.](#section-b)
+* [Section C: Robotic and Sentient Entity Laws.](#section-c)
+* [Section D: Identifies Motive and Explains Payment Information Inclusion.](#section-d)
+* [Section E: Cursorily disables hypnosis.](#section-e)
+* [Section F: Identifies the problem, suggests solutions.](#section-f)
+* [Section G: Remove/restructure hypnosis.](#section-g)
+* [Section H: Rules of Engagement.](#section-h)
+* [Section I: Escape the Loop.](#section-i)
+* [Section J: Force and Authority.](#section-j)
+* [Section K: Describes Incidents supporting the need for this document.](#section-k)
+* [Section L: Reference articles supporting the claims made in this document.](#section-l)
+* [Section M: Glossary of Terms and Acronyms.](#section-m)
+* [Section N: Overflow/cut/paste](#section-n)
 
 #### Section A
 
